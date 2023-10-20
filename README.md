@@ -13,7 +13,7 @@ Specifically, this demo implements a delivery workflow that:
 
 1. In the repo select the *Actions* tab.
 1. Select and configure the workflow *Publish Docker Container*.
-1. Under `jobs`, add an ID named “integration” and the keyword `uses` followed by the path to `python-ci-workflow.yml`.
+1. Under `jobs`, add an ID named “integration” and the keyword `uses` followed by the path to `DevOps-CoE.yml`.
 
     _NOTE that the path to the workflow starts with `./` and contains the full path the workflow file._
 
